@@ -1,21 +1,32 @@
-
 import Head from "next/head";
 import Link from "next/link";
-import Script from 'next/script'
+import Script from "next/script";
+// what does Solid stand for OO programming?
 
 export default function App() {
-    // function to make an async call to jsonplaceholder to get list of todos
-    async function getTodos() {
-      const response = await fetch("https://jsonplaceholder.typicode.com/todos");
-      const data = await response.json();
-      return data;
-    }
-    // call getTodos in useEffect on first render
-//TODO : create an array of string with color names
-const colors = [
-  "red", "orange", "yellow", "green", "blue", "indigo",
-  "violet", "purple", "pink", "brown", "grey", "black"]
-// create a function to return fibonacci numbers
+  // function to make an async call to jsonplaceholder to get list of todos
+  async function getTodos() {
+    const response = await fetch("https://jsonplaceholder.typicode.com/todos");
+    const data = await response.json();
+    return data;
+  }
+  // call getTodos in useEffect on first render
+  //TODO : create an array of string with color names
+  const colors = [
+    "red",
+    "orange",
+    "yellow",
+    "green",
+    "blue",
+    "indigo",
+    "violet",
+    "purple",
+    "pink",
+    "brown",
+    "grey",
+    "black",
+  ];
+  // create a function to return fibonacci numbers
 
   function fibonacci(n) {
     if (n === 0 || n === 1) {
@@ -23,12 +34,12 @@ const colors = [
     }
     return fibonacci(n - 1) + fibonacci(n - 2);
   }
-// return a function to render the fb sdk in this component using next/script and head/title
+  // return a function to render the fb sdk in this component using next/script and head/title
   return (
     <div className="App">
       <Head>
         <title>Next.js Boilerplate</title>
-       {/* next/script  */}
+        {/* next/script  */}
       </Head>
       <div className="container">
         <h1 className="title">
@@ -37,9 +48,7 @@ const colors = [
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
-        <Link href="/">
-          Go back to the homepage
-        </Link>
+        <Link href="/">Go back to the homepage</Link>
         {/* table to populate the data received from "getTodos" function  */}
         {/* <table className="table">
           <thead>

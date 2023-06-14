@@ -9,3 +9,13 @@ var phoneRegex = /\(\d{3}\) \d{3}-\d{4}/g;
 
 var phone = "123-456-7890";
 console.log(phoneRegex.test(phone));
+
+/// create a function to exchange two strings
+
+function exchange(str1, str2) {
+  return str1 + str2;
+}
+
+// call the function
+
+console.log(exchange("hello", "world"));

@@ -105,7 +105,7 @@ transform data from CSV format to JSON/XML format using a specified logic built 
 
 ### Comparision(https://blog.pragmaticengineer.com/github-copilot-alternatives/)
 
-![Pragmatic Engineer Paid Blob](public/images/comparison.png)
+![Pragmatic Engineer Paid Blob](public/images/Comparison.png)
 
 ## <span style="color:green">Yet to explore</span>
 

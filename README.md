@@ -22,24 +22,44 @@ The main objective of this project is to utilize AI-powered tools to streamline 
 - As you write code, Copilot automatically suggests completions based on the code context and patterns.
 - It provides suggestions for entire lines of code, function definitions, variable names, and more. You can accept or reject these suggestions by simply pressing the Tab key or using other keyboard shortcuts.
 
-Here's an example of how Copilot can assist with code completion:
+## Example
+
+### How prompts work to build logic based on a command or specification document by using the following prompts:
+
+- **Write a function that...**: This prompt can be used to generate a function that performs a specific task, such as retrieving data from a database or sorting a list of numbers.
+- **Given the following command...**: This prompt can be used to generate code that executes a specific command, such as creating a new file or listing the contents of a directory.
+- **According to the following specification document...**: This prompt can be used to generate code that implements a specific set of requirements, such as a user interface or a data model.
+
+- - Write a function that retrieves the user's name from the database.
+  - Given the following command: `ls -l`, write code that lists the contents of the current directory.
+  - According to the following specification document, write code that implements a user interface for a calculator.
+
+It can help developers save time and improve their productivity. By using the prompts described above, developers can easily generate code that implements the logic they need.
+
+- Additional tips to build logic based on a command or specification document:
+
+  - Be as specific as possible in your prompts. The more specific you are, the better GitHub Copilot will be able to generate code that meets your needs.
+  - Use natural language. GitHub Copilot can understand natural language, so you don't need to use any special syntax or keywords in your prompts.
+  - Be patient. GitHub Copilot is still under development, so it may not always be able to generate the perfect code. However, it will get better over time, and it can still be a valuable tool for saving time and improving productivity.
+
+### How Copilot can assist with code completion:
 
 ```python
-## Example 1: Function Definition
-def calculate_average(numbers):
-    """
-    Calculates the average of a list of numbers.
-    """
-    total = sum(numbers)
-    avg = total / len(numbers)
-    return avg
+    ## Example 1: Function Definition
+    def calculate_average(numbers):
+        """
+        Calculates the average of a list of numbers.
+        """
+        total = sum(numbers)
+        avg = total / len(numbers)
+        return avg
 
-## Example 2: Code Block
-if condition:
-    # Copilot suggests completing the code block based on the condition
-    do_something()
-    do_another_thing()
-    # ...
+    ## Example 2: Code Block
+    if condition:
+        # Copilot suggests completing the code block based on the condition
+        do_something()
+        do_another_thing()
+        # ...
 
 ```
 

@@ -1,0 +1,15 @@
+C:\Users\vipin\Documents\appAIPrompts\csharp\bin\Debug\net7.0\HelloWorldApp.exe
+C:\Users\vipin\Documents\appAIPrompts\csharp\bin\Debug\net7.0\HelloWorldApp.deps.json
+C:\Users\vipin\Documents\appAIPrompts\csharp\bin\Debug\net7.0\HelloWorldApp.runtimeconfig.json
+C:\Users\vipin\Documents\appAIPrompts\csharp\bin\Debug\net7.0\HelloWorldApp.dll
+C:\Users\vipin\Documents\appAIPrompts\csharp\bin\Debug\net7.0\HelloWorldApp.pdb
+C:\Users\vipin\Documents\appAIPrompts\csharp\obj\Debug\net7.0\HelloWorldApp.csproj.AssemblyReference.cache
+C:\Users\vipin\Documents\appAIPrompts\csharp\obj\Debug\net7.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipin\Documents\appAIPrompts\csharp\obj\Debug\net7.0\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\vipin\Documents\appAIPrompts\csharp\obj\Debug\net7.0\HelloWorldApp.AssemblyInfo.cs
+C:\Users\vipin\Documents\appAIPrompts\csharp\obj\Debug\net7.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\vipin\Documents\appAIPrompts\csharp\obj\Debug\net7.0\HelloWorldApp.dll
+C:\Users\vipin\Documents\appAIPrompts\csharp\obj\Debug\net7.0\refint\HelloWorldApp.dll
+C:\Users\vipin\Documents\appAIPrompts\csharp\obj\Debug\net7.0\HelloWorldApp.pdb
+C:\Users\vipin\Documents\appAIPrompts\csharp\obj\Debug\net7.0\HelloWorldApp.genruntimeconfig.cache
+C:\Users\vipin\Documents\appAIPrompts\csharp\obj\Debug\net7.0\ref\HelloWorldApp.dll

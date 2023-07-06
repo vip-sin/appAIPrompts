@@ -2,7 +2,7 @@
 
 ## <span style="color:#F97B22">Overview</span>
 
-This project focuses on prompt-based [Next.js](https://nextjs.org/learn) web app development, leveraging AI assistants like [GitHub Copilot](https://github.com/features/copilot) and [Tabnine](https://www.tabnine.com/getting-started) to expedite code completion and enhance development productivity.
+This project focuses on prompt-based coding. This repo utilises [Next.js](https://nextjs.org/learn) web app development, python, javascript & .net snippets to understand the usage, leveraging AI assistants like [GitHub Copilot](https://github.com/features/copilot) and [Tabnine](https://www.tabnine.com/getting-started) to expedite code completion and enhance development productivity.
 
 ### <span style="color:#F97B22">Objective</span>
 

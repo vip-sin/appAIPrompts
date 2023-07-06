@@ -1,4 +1,4 @@
-# <span style="color:#F97B22">Blogging Web App</span>
+# <span style="color:#F97B22">Github Prompts for Developers</span>
 
 ## <span style="color:#F97B22">Overview</span>
 
@@ -6,29 +6,32 @@ This project focuses on prompt-based [Next.js](https://nextjs.org/learn) web app
 
 ### <span style="color:#F97B22">Objective</span>
 
-The main objective of this project is to utilize AI-powered tools to streamline the development process of Next.js web applications. By harnessing the capabilities of GitHub Copilot/Tabnine, developers aim to enhance code completion and reduce manual coding efforts.
+1. To utilize AI-powered tools to streamline the development process of Next.js web applications. By harnessing the capabilities of GitHub Copilot/Tabnine, developers aim to enhance code completion and reduce manual coding efforts.
 
 #### <span style="color:green">1. What is Github Copilot?</span>
 
-- Github Copilot is an AI-powered code completion tool developed by Github in collaboration with OpenAI.
-- It utilizes machine learning models to assist developers in writing code by suggesting whole lines or blocks of code based on the context and code patterns.
-- It is designed to improve developers' productivity by automating repetitive coding tasks and reducing the time spent on searching for documentation or examples.
-- With Copilot, developers can get intelligent code suggestions for various programming languages and frameworks, making it a versatile tool for a wide range of projects.
+- An AI-powered code completion tool developed by Github in collaboration with OpenAI.
+- Utilizes machine learning models to assist developers in writing code by suggesting whole lines or blocks of code based on the context and code patterns.
+- Iimprove developers' productivity by automating repetitive coding tasks and reducing the time spent on googling.
+- Get intelligent code suggestions for various programming languages and frameworks, making it a versatile tool for a wide range of projects.
 
 #### <span style="color:green">2. How to Use Github Copilot?</span>
 
-- To use Github Copilot, you need to subscribe to Github Copilot, install the Github Copilot extension in your preferred code editor, such as Visual Studio Code.
-- Once installed, Copilot integrates seamlessly into your coding workflow.
-- As you write code, Copilot automatically suggests completions based on the code context and patterns.
-- It provides suggestions for entire lines of code, function definitions, variable names, and more. You can accept or reject these suggestions by simply pressing the Tab key or using other keyboard shortcuts.
+- Github Copilot subscription
+- Install Github Copilot extension in your IDE e.g. VS Code.
+- As you write code, Copilot suggests completions based on the code context and patterns.
+- It provides suggestions for
+  1. Entire lines of code,
+  2. Function definitions,
+  3. Variable names, and more. You can accept or reject these suggestions by simply pressing the Tab key or using other keyboard shortcuts.
 
 ## Example
 
 ### How prompts work to build logic based on a command or specification document by using the following prompts:
 
-- **Write a function that...**: This prompt can be used to generate a function that performs a specific task, such as retrieving data from a database or sorting a list of numbers.
-- **Given the following command...**: This prompt can be used to generate code that executes a specific command, such as creating a new file or listing the contents of a directory.
-- **According to the following specification document...**: This prompt can be used to generate code that implements a specific set of requirements, such as a user interface or a data model.
+- **Write a function that...**: It generates a function that performs a specific task, like retrieving data from a database or sorting a list of numbers.
+- **Given the following command...**: It generates code that executes a specific command, such as creating a new file or listing the contents of a directory.
+- **According to the following specification document...**: It can be used to generate code that implements a specific set of requirements, such as a user interface or a data model.
 
 - - Write a function that retrieves the user's name from the database.
   - Given the following command: `ls -l`, write code that lists the contents of the current directory.

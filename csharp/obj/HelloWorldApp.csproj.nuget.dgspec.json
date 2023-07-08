@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vipin\\Documents\\appAIPrompts\\csharp\\HelloWorldApp.csproj": {}
+    "c:\\Users\\vipin\\Documents\\appAIPrompts\\csharp\\HelloWorldApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vipin\\Documents\\appAIPrompts\\csharp\\HelloWorldApp.csproj": {
+    "c:\\Users\\vipin\\Documents\\appAIPrompts\\csharp\\HelloWorldApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vipin\\Documents\\appAIPrompts\\csharp\\HelloWorldApp.csproj",
+        "projectUniqueName": "c:\\Users\\vipin\\Documents\\appAIPrompts\\csharp\\HelloWorldApp.csproj",
         "projectName": "HelloWorldApp",
-        "projectPath": "C:\\Users\\vipin\\Documents\\appAIPrompts\\csharp\\HelloWorldApp.csproj",
+        "projectPath": "c:\\Users\\vipin\\Documents\\appAIPrompts\\csharp\\HelloWorldApp.csproj",
         "packagesPath": "C:\\Users\\vipin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vipin\\Documents\\appAIPrompts\\csharp\\obj\\",
+        "outputPath": "c:\\Users\\vipin\\Documents\\appAIPrompts\\csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vipin\\AppData\\Roaming\\NuGet\\NuGet.Config"
